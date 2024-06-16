@@ -9,8 +9,8 @@
     "moduleResolution": "node",
     "types": [
       "lua-types/5.2",
-      "@azerothcore/eluna-ts-definitions",
-      "@azerothcore/eluna-ts-lib"
+      "eluna-ts-definitions",
+      "eluna-ts-lib"
     ],
     "typeRoots": [
       "./node_modules/@types",
